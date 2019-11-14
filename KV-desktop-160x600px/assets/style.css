@@ -1,0 +1,191 @@
+#container {
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes leftFadeIn {
+  from {
+    left: -1px;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes topFadeIn {
+  from {
+    top: -1px;
+  }
+  to {
+    opacity: 1;
+  }
+}
+#container #file_3 {
+  width: 160px;
+  height: 600px;
+  background: url("../images/files_160x600/bg.png");
+  position: relative;
+  overflow: hidden;
+}
+#container #file_3 img {
+  position: absolute;
+  opacity: 0;
+}
+#container #file_3 .product {
+  right: 0;
+  bottom: 0;
+  animation: 2s fadeIn;
+  animation-delay: 0s;
+  animation-fill-mode: forwards;
+}
+#container #file_3 .text_1 {
+  top: 49px;
+  left: 173px;
+  animation: 1s leftFadeIn;
+  animation-delay: 500ms;
+  animation-fill-mode: forwards;
+}
+#container #file_3 .text_2 {
+  top: 152px;
+  left: 394px;
+  animation: 1s leftFadeIn;
+  animation-delay: 1000ms;
+  animation-fill-mode: forwards;
+}
+#container #file_3 .text_3 {
+  top: 152px;
+  left: 262px;
+  animation: 1s leftFadeIn;
+  animation-delay: 1500ms;
+  animation-fill-mode: forwards;
+}
+#container #file_3 .text_4 {
+  top: 152px;
+  left: 134px;
+  animation: 1s leftFadeIn;
+  animation-delay: 2000ms;
+  animation-fill-mode: forwards;
+}
+#container #file_3 .logo {
+    top: 152px;
+    left: 134px;
+    animation: 1s leftFadeIn;
+    animation-delay: 2000ms;
+    animation-fill-mode: forwards;
+  }
+#container #file_4 {
+  width: 1160px;
+  height: 90px;
+  background: url("../images/files_160x600/bg.png");
+  position: relative;
+  overflow: hidden;
+}
+#container #file_4 img {
+  position: absolute;
+  opacity: 0;
+}
+#container #file_4 .product {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  animation: 2s fadeIn;
+  animation-delay: 0s;
+  animation-fill-mode: forwards;
+}
+#container #file_4 .text_1 {
+  top: 23px;
+  left: 71px;
+  animation: 1s topFadeIn;
+  animation-delay: 500ms;
+  animation-fill-mode: forwards;
+}
+#container #file_4 .text_2 {
+  top: 33px;
+  left: 823px;
+  animation: 1s topFadeIn;
+  animation-delay: 1000ms;
+  animation-fill-mode: forwards;
+}
+#container #file_4 .text_3 {
+  top: 33px;
+  left: 742px;
+  animation: 1s topFadeIn;
+  animation-delay: 1500ms;
+  animation-fill-mode: forwards;
+}
+#container #file_4 .text_4 {
+  top: 33px;
+  left: 667px;
+  animation: 1s topFadeIn;
+  animation-delay: 2000ms;
+  animation-fill-mode: forwards;
+}
+#container #file_4 .logo {
+    top: 33px;
+  left: 667px;
+  animation: 1s topFadeIn;
+  animation-delay: 2000ms;
+  animation-fill-mode: forwards;
+  }
+#container #file_5 {
+  width: 160px;
+  height: 600px;
+  background: url("../images/files_160x600/bg.png");
+  position: relative;
+  overflow: hidden;
+}
+#container #file_5 img {
+  position: absolute;
+  opacity: 0;
+}
+#container #file_5 .product {
+  right: 0;
+  bottom: 0;
+  animation: 2s fadeIn;
+  animation-delay: 0s;
+  animation-fill-mode: forwards;
+}
+#container #file_5 .text_1 {
+  top: 90px;
+  left: 28px;
+  animation: 1s leftFadeIn;
+  animation-delay: 500ms;
+  animation-fill-mode: forwards;
+}
+#container #file_5 .text_2 {
+  top: 122px;
+  left: 11px;
+  animation: 1s leftFadeIn;
+  animation-delay: 2000ms;
+  animation-fill-mode: forwards;
+}
+#container #file_5 .text_3 {
+  top: 122px;
+  left: 54px;
+  animation: 1s leftFadeIn;
+  animation-delay: 1500ms;
+  animation-fill-mode: forwards;
+}
+#container #file_5 .text_4 {
+  top: 122px;
+  left: 100px;
+  animation: 1s leftFadeIn;
+  animation-delay: 1000ms;
+  animation-fill-mode: forwards;
+}
+#container #file_5 .logo {
+    top: 581px;
+    animation: 2s fadeIn;
+    animation-delay: 0s;
+    animation-fill-mode: forwards;
+}
+/*# sourceMappingURL=style.css.map */
