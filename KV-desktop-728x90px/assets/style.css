@@ -32,7 +32,7 @@
 #container #file_3 {
   width: 160px;
   height: 600px;
-  background: url("../images/files_300x250/bg.png");
+  background: url("../images/files_728x90/bg.png");
   position: relative;
   overflow: hidden;
 }
@@ -85,7 +85,7 @@
 #container #file_4 {
   width: 1160px;
   height: 90px;
-  background: url("../images/files_300x250/bg.png");
+  background: url("../images/files_728x90/bg.png");
   position: relative;
   overflow: hidden;
 }
@@ -137,9 +137,9 @@
   animation-fill-mode: forwards;
   }
 #container #file_5 {
-  width: 300px;
-  height: 250px;
-  background: url("../images/files_300x250/bg.png");
+  width: 728px;
+  height: 90px;
+  background: url("../images/files_728x90/bg.png");
   position: relative;
   overflow: hidden;
 }
@@ -155,36 +155,36 @@
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_1 {
-  top: 42px;
-  left: 41px;
+  top: 23px;
+  left: 95px;
   animation: 1s leftFadeIn;
   animation-delay: 500ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_2 {
-  top: 80px;
-  left: 28px;
+  top: 37px;
+  left: 291px;
   animation: 1s leftFadeIn;
   animation-delay: 2000ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_3 {
-  top: 80px;
-  left: 75px;
+  top: 37px;
+  left: 360px;
   animation: 1s leftFadeIn;
   animation-delay: 1500ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_4 {
-  top: 80px;
-  left: 124px;
+  top: 37px;
+  left: 433px;
   animation: 1s leftFadeIn;
   animation-delay: 1000ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .logo {
-    top: 230px;
-    left: 11px;
+    top: 71px;
+    left: 13px;
     animation: 2s fadeIn;
     animation-delay: 0s;
     animation-fill-mode: forwards;

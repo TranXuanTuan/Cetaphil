@@ -155,36 +155,36 @@
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_1 {
-  top: 42px;
-  left: 41px;
+  top: 38px;
+  left: 43px;
   animation: 1s leftFadeIn;
   animation-delay: 500ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_2 {
-  top: 80px;
-  left: 28px;
+  top: 75px;
+  left: 29px;
   animation: 1s leftFadeIn;
   animation-delay: 2000ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_3 {
-  top: 80px;
-  left: 75px;
+  top: 75px;
+  left: 76px;
   animation: 1s leftFadeIn;
   animation-delay: 1500ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .text_4 {
-  top: 80px;
-  left: 124px;
+  top: 75px;
+  left: 125px;
   animation: 1s leftFadeIn;
   animation-delay: 1000ms;
   animation-fill-mode: forwards;
 }
 #container #file_5 .logo {
     top: 230px;
-    left: 11px;
+    left: 10px;
     animation: 2s fadeIn;
     animation-delay: 0s;
     animation-fill-mode: forwards;
